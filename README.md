@@ -1,8 +1,9 @@
+---
 # Python-Beginner-Projects
 
 a collection of my simple and relatively easy python projects and walkthroughs aimed for beginners looking for some really basic 'in an evening' python projects that can be done quickly and easily with reasonably in depth guides to help.
 
-
+---
 
 # each project includes:
   - the completed code with basic comments throughout to help
@@ -10,7 +11,7 @@ a collection of my simple and relatively easy python projects and walkthroughs a
   - a walkthrough guide of the running of the code
   - a simple and informative README.md for any extra information
 
-
+---
 
 # what concept and skills are explored?
   - Core Syntax (variables, casting, etc)
@@ -20,7 +21,7 @@ a collection of my simple and relatively easy python projects and walkthroughs a
   - Loops (While and For loops)
   - effectively organising code and methods to achieve this
 
-
+---
 
 # PLEASE NOTE:
 i often wont have time to constantly update the repository so it is possible that it sits unchanged for a few weeks if i am busy but i will try my best to commit to consistently building on it until its completed.
