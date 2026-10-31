@@ -62,7 +62,7 @@ def square_root():
 #=============================================================== take input for calculation to use and use functions to complete it ===============================================================
 
 choice = input("enter the number for the calculation to use     ")
-choice_int = float(choice)
+choice_int = integer(choice)
 
 if choice_int == 1:
     addition()
