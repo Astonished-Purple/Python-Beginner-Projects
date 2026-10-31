@@ -9,7 +9,7 @@ a collection of my simple and relatively easy python projects and walkthroughs a
   - the completed code with basic comments throughout to help
   - a detailed line by line breakdown of the code
   - a walkthrough guide of the running of the code
-  - a simple and informative README.md for any extra information
+  - a simple README.md for any extra information
 
 ---
 
