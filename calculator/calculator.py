@@ -1,3 +1,4 @@
+#comment out the line below so the code can run
 calculator/calculator.py
 
 #here is a really simple example python calculator to show how functions, calculations, libraries, etc are used in python as a basic python script for reference and for learning.
@@ -62,7 +63,7 @@ def square_root():
 #=============================================================== take input for calculation to use and use functions to complete it ===============================================================
 
 choice = input("enter the number for the calculation to use     ")
-choice_int = integer(choice)
+choice_int = int(choice)
 
 if choice_int == 1:
     addition()
