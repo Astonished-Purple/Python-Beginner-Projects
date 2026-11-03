@@ -1,5 +1,4 @@
-#comment out the line below so the code can run
-calculator/calculator.py
+
 
 #here is a really simple example python calculator to show how functions, calculations, libraries, etc are used in python as a basic python script for reference and for learning.
 
