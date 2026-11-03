@@ -1,6 +1,6 @@
 
 
-#here is a really simple example python calculator to show how functions, calculations, libraries, etc are used in python as a basic python script for reference and for learning.
+#here is a really simple example python calculator to show how functions, calculations, libraries, etc are used in python as a basic python script for reference.
 
 #===================================================================== import the math library to enable the square root function =================================================================
 
